@@ -34,8 +34,8 @@ pip install numpy pandas scikit-learn matplotlib seaborn
 Clone the repository and navigate to the project directory:
 
 ```bash
-git clone https://github.com/yourusername/text-classification-project.git
-cd text-classification-project
+git https://github.com/Meikandadevan-Senthil/Spam-Mail-Prediction
+cd Spam-Mail-Prediction
 ```
 
 ## Data
